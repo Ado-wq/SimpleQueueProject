@@ -1,0 +1,4 @@
+add - adds name to queue, max 10 chars and must be lowercases
+process  - processes the queue by 1 step.
+reset - resets the queue
+quit -  exiting the program
